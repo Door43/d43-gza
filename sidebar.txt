@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gza:home|Door43 (gza)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gza|d43-gza repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gza/archive/master.zip|d43-gza.zip]]
+
+**Recent Changes**
+{{changes>ns = gza}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gza|Ethnologue data]]
+
